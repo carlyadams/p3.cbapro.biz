@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html>
 <head>
 
@@ -84,8 +84,8 @@
     <h1>Earned Value</h1>
   <div>
     <p><br>
-      <label>The Earned Valueis used to calculate the current position of the project related to earned value.<br>
-        1) Provide: Planned Hours, Actual Hours, Effort Hours, Percent, Hourly Rate, and Baselined Costs.<br>
+      <label>The Earned Value is used to calculate the current position of the project related to earned value.<br>
+        1) Provide: Planned Hours, Actual Hours, Effort Hours, Percent, Hourly Rate, and Base-lined Costs.<br>
         2) Once the figures are provided, hit the 'Calculate' button and the remaining fields will be calculated.<br>
         3) The Result will provide you with current progress related to cost and schedule..
       </label>
@@ -112,7 +112,6 @@
         </label></td>
       </tr>
       <tr>
-
         <td><div align="center">
           <input name="PH" type="text" id="PH">
         </div></td>
@@ -123,14 +122,14 @@
           <input name="EH" type="text" id="EH">
         </div></td>
         <td style="width: 148px">
-          <div align="left">
-              VALUE:<br>
-            <input name="PCV" type="text" id="PCV" readonly>
-              <br>
-              PERCENT:
-              <input name="PC" type="text" id="PC" maxlength="10">
-              <br>
-            </div>
+        <div align="left">
+        VALUE:<br>
+        <input name="PCV" type="text" id="PCV" readonly>
+        <br>
+        PERCENT:
+        <input name="PC" type="text" id="PC" maxlength="10">
+        <br>
+        </div>
        </td>
         <td><div align="center">
           <input name="HR" type="text" id="HR">
@@ -269,10 +268,5 @@
   </div>
 
 </form>
-
-
-
-
-
 </body>
 </html>
