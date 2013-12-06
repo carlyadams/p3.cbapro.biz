@@ -77,7 +77,7 @@
 <body bgcolor="#0E0CF7" text="#3366FF">
 <noscript>CBA Professionals is a FIRM that practices GREEN. Interested in learning more, visit us at cbaprofessionals.com </noscript>
 
-<form name="EVcalc" action="file:///C|/Users/Carly Adams/Documents/dw/project.php" method="POST" id="EVcalc">
+<form name="EVcalc" id="EVcalc">
 
   
     <p style="font-style: normal; font-size: 36px;">CBA Professionals LLC</p>
