@@ -53,10 +53,6 @@
 					document.EVcalc.PC.value = U
 					document.EVcalc.PCV.value = V
 
-
-
-
-    
                 }
             }
     
